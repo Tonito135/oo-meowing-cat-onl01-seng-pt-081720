@@ -1,3 +1,4 @@
 ## code your solution here. 
 class Cat
-  def 
+  attr_writer :name
+  attr_reader :name
