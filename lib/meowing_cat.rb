@@ -1,2 +1,3 @@
 ## code your solution here. 
-Class Cat
+class Cat
+  def 
